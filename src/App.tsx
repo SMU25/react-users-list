@@ -62,10 +62,6 @@ function App() {
     setSuccess(true);
   }, []);
 
-  const onClickBack = useCallback(() => {
-    setSuccess(false);
-  }, []);
-
   return (
     <div className="App">
       <AppContext.Provider value={onClickInvite}>
