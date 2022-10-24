@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:wght@700;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400&display=swap");
 
 body {
   margin: 0;
@@ -10,7 +10,7 @@ body {
 
 * {
   box-sizing: border-box;
-  font-family: 'Inter', sans-serif;
+  font-family: "Inter", sans-serif;
   outline: none;
 }
 
@@ -85,7 +85,7 @@ body {
     h3 {
       margin: 0;
       font-weight: 900;
-      font-family: 'Merriweather', serif;
+      font-family: "Merriweather", serif;
       margin-left: 15px;
       margin-top: 5px;
       margin-left: 0;
@@ -144,7 +144,7 @@ body {
   flex-direction: column;
   animation: success-show 0.5s cubic-bezier(0.25, 0.75, 0.5, 1.25);
 
-  img {
+  svg {
     width: 120px;
     height: 120px;
   }
