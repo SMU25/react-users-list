@@ -1,4 +1,4 @@
-Deployed: [Users List](https://react-app-users-list.herokuapp.com/)
+## Deployed: [Users List](https://react-users-list-seven.vercel.app/)
 
 # Getting Started with Create React App
 
